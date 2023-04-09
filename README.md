@@ -1,3 +1,3 @@
 # photographer-portfolio
 
-A portfolio website for a photographer / videographer. 
+A basic portfolio website landing page for a photographer / videographer. 
