@@ -82,12 +82,12 @@ body{
     border-radius: 25px;
 }
 
-.title{
-    text-align: center;
-    padding: 25px;
+.gallery{
+    padding: 10px; 
+    color:darksalmon;
     font-size: 50px;
     font-weight: bold;
-    color:darksalmon;
+    
 }
 
 .text{  
@@ -98,18 +98,26 @@ body{
 }
 
 .content{
+    margin: -20px;
     height:750px; 
+    display:flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
 }
 
 .inner-content{
     display:flex;
     justify-content: center;
-    gap: 30px;
+    gap: 15px;
     align-items: center;
-    height:600px;
+    width: 600px;
+    text-align: center;
 }
 
+
 .image  {
+    
     width: 370px;
     height: 550px;
     border-radius: 25px;
